@@ -7,8 +7,8 @@
 #include "camera_pins.h"
 
 // WiFi credentials
-const char *ssid = "Orange-1A86";
-const char *password = "8J76322882";
+const char *ssid = "........";
+const char *password = "........";
 
 // HTTP server for streaming and control
 httpd_handle_t server = NULL;
